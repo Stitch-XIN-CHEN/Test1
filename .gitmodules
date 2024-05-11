@@ -1,4 +1,0 @@
-[submodule "Test2"]
-	path = Test2
-	url = git@github.com:Stitch-XIN-CHEN/Test2.git
-                 branch = main
